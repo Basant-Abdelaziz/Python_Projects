@@ -34,7 +34,10 @@
 
 # The concluesions 
 
-#### the product 77
+#### 1)Products 799 and  708 are the highest ordered SKUs and made higher revenue.
+#### 2)the preferred colors and the most sold are dark blue and light blue.
+#### 3)the size XL was the most sold and M and L have the same sold level.
+#### 4)the highest ordered month 9, and there is growth in the revenue throughout the months.
 
 
 
